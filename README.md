@@ -9,7 +9,7 @@ Projeto construído no curso Explorer da Rocketseat.
 
 
 
-[ 🔗 Clique aqui para acessar](https://ricardojcosta.github.io/explorer_stage3_projeto3/)
+[ 🔗 Clique aqui para acessar](https://ricardojcosta.github.io/explorer_stage3_desafio3/)
 
 
 ## ⚒ Tecnologias
